@@ -1,15 +1,16 @@
 {
-  "name": "sf-skills",
+  "name": "agentforce-skills",
   "owner": {
-    "name": "Salesforce",
-    "url": "https://github.com/srishab2002/sf-skills.git"
+    "name": "Rishab"
+  },
+  "metadata": {
+    "description": "Claude Code skills for Agentforce & Salesforce  (by Rishab)"
   },
   "plugins": [
     {
-      "name": "sf-skills",
+      "name": "agentforce-skills",
       "source": "./",
-      "description": "Salesforce skills library: Agentforce, Lightning apps, Flow, Apex, SOQL, LWC, UI bundles, and more.",
-      "version": "1.32.0"
+      "description": "Claude Code skills for Agentforce & Salesforce  (by Rishab)"
     }
   ]
 }

@@ -1,13 +1,11 @@
 {
-  "name": "sf-skills",
-  "version": "1.32.0",
-  "description": "Salesforce skills for building applications: Agentforce agents, Lightning apps, Flow, Apex, SOQL, LWC, UI bundles, objects/fields, permission sets, and related areas.",
+  "name": "agentforce-skills",
+  "description": "Claude Code skills for Agentforce & Salesforce  (by Rishab)",
+  "version": "1.0.0",
   "author": {
-    "name": "Salesforce",
-    "url": "https://github.com/srishab2002/sf-skills.git"
+    "name": "Rishab"
   },
-  "homepage": "https://github.com/srishab2002/sf-skills.git",
-  "repository": "https://github.com/srishab2002/sf-skills.git",
-  "license": "CC-BY-NC-4.0",
-  "keywords": ["salesforce", "agentforce", "apex", "lwc", "flow", "soql"]
+  "repository": "https://github.com/srishab2002/developing-agentforce",
+  
+  "license": "MIT"
 }
