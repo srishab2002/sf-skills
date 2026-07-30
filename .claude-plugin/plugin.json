@@ -1,0 +1,13 @@
+{
+  "name": "sf-skills",
+  "version": "1.32.0",
+  "description": "Salesforce skills for building applications: Agentforce agents, Lightning apps, Flow, Apex, SOQL, LWC, UI bundles, objects/fields, permission sets, and related areas.",
+  "author": {
+    "name": "Salesforce",
+    "url": "https://github.com/forcedotcom"
+  },
+  "homepage": "https://github.com/forcedotcom/sf-skills",
+  "repository": "https://github.com/forcedotcom/sf-skills",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["salesforce", "agentforce", "apex", "lwc", "flow", "soql"]
+}
